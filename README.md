@@ -9,3 +9,5 @@ Decode given JSON to models and implement the calculations:
 2. For each city find its highest temperatures and print the results in format "city: max_temp",
 3. Find the city with the smallest average daily temperature and print its name
 4. Show JSON data as a list in the Android app. There is no requirement on how the UI should look. It's up to you what and how you show it.
+
+![image](https://user-images.githubusercontent.com/97065748/191571755-e0fd79aa-ec4a-469f-931d-e4becdc8e693.png)
